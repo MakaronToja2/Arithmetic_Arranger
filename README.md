@@ -1,6 +1,7 @@
 # Arithmetic_Arranger
 
 It's my version of arthimetic aranger made as FreeCodeCamp assement.\
+To start a program we need to download everything and run Arithmetic_Arranger\
 I used regular expression to check if problems contains digits of if the operator is + or - \
 Then as you can see I splited each problem so I can get every problem seperatly and work on it\
 Then made calculations with + or -\
